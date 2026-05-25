@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 25-05-2026
 ## Register Number: 212224040113
-## Name:HEMACHADIRAN J
+## Name:HEMACHANDIRAN J
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
